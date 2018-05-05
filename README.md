@@ -17,6 +17,7 @@ Usage:
 In terminal
 
 <b>make</b>
+
 <b>./server</b>
 
 In web browser
