@@ -16,11 +16,11 @@ Usage:
 
 In terminal
 
->>> make
->>> ./server
+<b>make</b>
+<b>./server</b>
 
 In web browser
 
-http://<IP address of your machine>:5000
+http://[IP address of your machine]:5000
 
-where <IP address> can be checked via ifconfig
+where [IP address] can be checked via ifconfig
