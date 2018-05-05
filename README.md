@@ -2,7 +2,7 @@ This project is done as part of CSE351 at UNIST.
 
 The goal of a project was yo implement server on C++ via socket programming which will listen to a client in a Thread Pool manner and then send a webpage to the client.
 
-Result:
+<h>Result:</h>
 
 ![ ](demo/demo1.png)
 
@@ -12,15 +12,17 @@ Result:
 
 
 
-Usage:
+<h>Usage:</h>
 
-In terminal
+<b>In terminal</b>
 
-<b>make</b>
+make
 
-<b>./server</b>
+./server
 
-In web browser
+
+<b>In web browser</b>
+
 
 http://[IP address of your machine]:5000
 
